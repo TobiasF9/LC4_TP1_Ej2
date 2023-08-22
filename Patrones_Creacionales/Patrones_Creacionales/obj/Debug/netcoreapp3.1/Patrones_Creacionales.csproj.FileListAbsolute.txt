@@ -1,0 +1,14 @@
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\bin\Debug\netcoreapp3.1\Patrones_Creacionales.exe
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\bin\Debug\netcoreapp3.1\Patrones_Creacionales.deps.json
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\bin\Debug\netcoreapp3.1\Patrones_Creacionales.runtimeconfig.json
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\bin\Debug\netcoreapp3.1\Patrones_Creacionales.runtimeconfig.dev.json
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\bin\Debug\netcoreapp3.1\Patrones_Creacionales.dll
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\bin\Debug\netcoreapp3.1\Patrones_Creacionales.pdb
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\obj\Debug\netcoreapp3.1\Patrones_Creacionales.csproj.AssemblyReference.cache
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\obj\Debug\netcoreapp3.1\Patrones_Creacionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\obj\Debug\netcoreapp3.1\Patrones_Creacionales.AssemblyInfoInputs.cache
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\obj\Debug\netcoreapp3.1\Patrones_Creacionales.AssemblyInfo.cs
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\obj\Debug\netcoreapp3.1\Patrones_Creacionales.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\obj\Debug\netcoreapp3.1\Patrones_Creacionales.dll
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\obj\Debug\netcoreapp3.1\Patrones_Creacionales.pdb
+C:\Users\Tobias\source\repos\Patrones_Creacionales\Patrones_Creacionales\obj\Debug\netcoreapp3.1\Patrones_Creacionales.genruntimeconfig.cache
